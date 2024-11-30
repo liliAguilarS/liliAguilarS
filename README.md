@@ -5,23 +5,24 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1FkkcH64jn/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/liliana_aguilars/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aguilar.segura.liliana@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/liliana-aguilar-segura)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aguilar.segura.liliana@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liliana-aguilar-segura/)
 
 
-📍 Who am I?
+# 📍 Who am I?
 
 I am a developer with experience in building web applications. I enjoy solving complex problems with clean, efficient, and well-documented code.
 
-📬 Let’s connect!
+# 📬 Let’s connect!
 
 ◆ I collaborate effectively and share ideas to create better solutions.                        
 ◆ I’m constantly learning new technologies.    
 ◆ I pay attention to detail in design and user experience.
 
 If you’re interested in my profile, feel free to contact me via email or LinkedIn.                                      
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/liliana-aguilar-segura)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aguilar.segura.liliana@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liliana-aguilar-segura/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aguilar.segura.liliana@gmail.com)
+
 
 
 # Technologies 💻
