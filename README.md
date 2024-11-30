@@ -34,6 +34,9 @@ If you’re interested in my profile, feel free to contact me via email or Linke
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liliAguilarS&show_icons=true&theme=radical)
 
+### Featured Projects
+- [Collaborative Project](https://github.com/EcheverriaJesus/SCHOOLBOOK): Contributed to the development of a school management system for a secondary school.
+
 
 
 <!--
